@@ -23,6 +23,7 @@ namespace CatCore.Models.Api.Responses
 			DisplayName = userData.DisplayName;
 			LoginName = userData.LoginName;
 			ChannelId = userData.UserId;
+			
 		}
 	}
 }
