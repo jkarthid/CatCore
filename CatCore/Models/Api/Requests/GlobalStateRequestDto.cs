@@ -1,5 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
+
 namespace CatCore.Models.Api.Requests
 {
 	internal readonly struct GlobalStateRequestDto
