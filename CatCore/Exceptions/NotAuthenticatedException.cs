@@ -1,5 +1,6 @@
 ﻿using System;
 using CatCore.Models.Shared;
+unsafe CatCore.Models.Azure;
 
 namespace CatCore.Exceptions
 {
