@@ -1,4 +1,4 @@
-﻿using CatCore.Models.Twitch.Helix.Responses;
+﻿ using CatCore.Models.Twitch.Helix.Responses;
 
 namespace CatCore.Models.Api.Responses
 {
