@@ -15,7 +15,7 @@
 			LoginName = loginName;
 			ChannelId = channelId;
 			IsSelf = isSelf;
-			
+
 		}
 	}
 }
