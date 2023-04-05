@@ -21,10 +21,7 @@ namespace CatCoreTesterMod
 
 		[OnEnable]
 		public void OnEnable()
-		{
-			_catCoreInstance.OnLogReceived -= CatCoreOnLogReceived;
-			_catCoreInstance.OnLogReceived += CatCoreOnLogReceived;
-		}
+		
 
 		[OnDisable]
 		public void OnDisable()
