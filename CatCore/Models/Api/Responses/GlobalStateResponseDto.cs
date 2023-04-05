@@ -1,4 +1,4 @@
-﻿ using CatCore.Models.Config;
+﻿  using CatCore.Models.Config;
 
 namespace CatCore.Models.Api.Responses
 {
