@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿
+
+using System.Collections.Generic;
 using System.Linq;
 using CatCore.Models.Config;
 using CatCore.Models.Twitch.Helix.Responses;
