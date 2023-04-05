@@ -4,6 +4,8 @@ using CatCore.Models.Config;
 using CatCore.Models.Twitch.Helix.Responses;
 using CatCore.Models.Twitch.OAuth;
 
+
+
 namespace CatCore.Models.Api.Responses
 {
 	internal readonly struct TwitchStateResponseDto
